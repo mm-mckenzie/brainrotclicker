@@ -10,7 +10,7 @@ const StimulationFeed: React.FC = () => {
             {/* Subway Surfers / Temple Run style gameplay */}
             <div className="w-full flex-1 relative rounded-xl overflow-hidden border-4 border-blue-500 shadow-[0_0_20px_rgba(0,0,255,0.5)]">
                 <img
-                    src="https://media.giphy.com/media/3o7TKO6dPGDqFqJGaQ/giphy.gif"
+                    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ4cjJkN3hvZmZ6Mmp0bzg1bGJjNmpjb3d6cTZ3eXdicDJnbDF0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkUtjuBEdICST5zG7p/giphy.gif"
                     alt="Subway Surfers"
                     className="w-full h-full object-cover"
                 />
@@ -22,8 +22,8 @@ const StimulationFeed: React.FC = () => {
             {/* Sensory/ASMR */}
             <div className="w-full flex-1 relative rounded-xl overflow-hidden border-4 border-pink-500 shadow-[0_0_20px_rgba(255,0,255,0.5)]">
                 <img
-                    src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"
-                    alt="Satisfying Slime"
+                    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFwYjhtbnRsamgwdm5hdXR3aTB4NTBsMmt1N2s3a2k5cWl0YmswdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yh0qLwfpAogL9vVxhL/giphy.gif"
+                    alt="Satisfying Minecraft"
                     className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
@@ -34,7 +34,7 @@ const StimulationFeed: React.FC = () => {
             {/* Chaos/Funny */}
             <div className="w-full flex-1 relative rounded-xl overflow-hidden border-4 border-green-500 shadow-[0_0_20px_rgba(0,255,0,0.5)]">
                 <img
-                    src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+                    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR6c3JldXR6OGRsdWliY2YzdmZ2ZjJyd2F1MHBqOWkyOXJhemJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TEXURMmaV8W9kSo1Q/giphy.gif"
                     alt="GTA Stunts"
                     className="w-full h-full object-cover"
                 />
