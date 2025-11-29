@@ -148,7 +148,7 @@ export default function App() {
     // Combo Decay Loop
     useEffect(() => {
         const interval = setInterval(() => {
-            setCombo(prev => Math.max(0, prev - 2));
+            setCombo(prev => Math.max(0, prev - 1));
         }, 200);
         return () => clearInterval(interval);
     }, []);
